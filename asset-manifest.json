@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/svadba-pozivnica/static/css/main.c3a4351a.css",
-    "main.js": "/svadba-pozivnica/static/js/main.d43764fe.js",
-    "static/js/787.bc2101ef.chunk.js": "/svadba-pozivnica/static/js/787.bc2101ef.chunk.js",
-    "static/media/logo.svg": "/svadba-pozivnica/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/svadba-pozivnica/index.html",
-    "main.c3a4351a.css.map": "/svadba-pozivnica/static/css/main.c3a4351a.css.map",
-    "main.d43764fe.js.map": "/svadba-pozivnica/static/js/main.d43764fe.js.map",
-    "787.bc2101ef.chunk.js.map": "/svadba-pozivnica/static/js/787.bc2101ef.chunk.js.map"
+    "main.css": "/ZenimSe/static/css/main.c3a4351a.css",
+    "main.js": "/ZenimSe/static/js/main.b904689e.js",
+    "static/js/787.bc2101ef.chunk.js": "/ZenimSe/static/js/787.bc2101ef.chunk.js",
+    "static/media/logo.svg": "/ZenimSe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ZenimSe/index.html",
+    "main.c3a4351a.css.map": "/ZenimSe/static/css/main.c3a4351a.css.map",
+    "main.b904689e.js.map": "/ZenimSe/static/js/main.b904689e.js.map",
+    "787.bc2101ef.chunk.js.map": "/ZenimSe/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3a4351a.css",
-    "static/js/main.d43764fe.js"
+    "static/js/main.b904689e.js"
   ]
 }
